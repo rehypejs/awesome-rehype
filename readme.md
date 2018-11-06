@@ -61,6 +61,8 @@ project) resources.
     — interactive computing suite for you
 *   [documentation.js](https://github.com/documentationjs/documentation)
     — documentation system for modern JavaScript
+*   [svgr](https://github.com/smooth-code/svgr)
+    — transform SVGs into React components
 *   [nextein](https://github.com/elmasse/nextein)
     — static site generator with markdown + react for Next.js
 *   [prettyhtml](https://github.com/Prettyhtml/prettyhtml)
