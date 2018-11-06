@@ -8,9 +8,9 @@ project) resources.
 *   [rehype][]
     — repository
 *   [rehype-parse][]
-    — markdown parser
+    — HTML parser
 *   [rehype-stringify][]
-    — markdown generator
+    — HTML generator
 *   [rehype-cli][]
     — command line interface
 *   [hast][]
