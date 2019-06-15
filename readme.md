@@ -67,9 +67,9 @@ collective.
 
 ## Related lists
 
-* [awesome unified](https://github.com/unifiedjs/awesome)
+* [awesome unified](https://github.com/unifiedjs/awesome-unified)
 * [awesome remark](https://github.com/remarkjs/awesome-remark)
-* [awesome retext](https://github.com/retextjs/awesome)
+* [awesome retext](https://github.com/retextjs/awesome-retext)
 * [awesome mdx](https://github.com/transitive-bullshit/awesome-mdx)
 * [awesome syntax-tree](https://github.com/syntax-tree/awesome-syntax-tree)
 
