@@ -40,8 +40,8 @@ collective.
 * [rehype-document](https://github.com/rehypejs/rehype-document) - Wrap a fragment in a document.
 * [rehype-highlight](https://github.com/rehypejs/rehype-highlight) - Highlight code blocks with [lowlight](https://github.com/wooorm/lowlight) (Highlight.js).
 * [rehype-prism](https://github.com/mapbox/rehype-prism) - Highlight code blocks with [refractor](https://github.com/wooorm/refractor) (Prism).
-* [rehype-inline-svg](https://github.com/JS-DevTools/rehype-inline-svg) - Inlines and optimizes SVG images
-* [rehype-toc](https://github.com/JS-DevTools/rehype-toc) - Adds a table of contents (TOC) to the page
+* [rehype-inline-svg](https://github.com/JS-DevTools/rehype-inline-svg) - Inline and optimize SVGs.
+* [rehype-toc](https://github.com/JS-DevTools/rehype-toc) - Add a table of contents (TOC).
 
 [Find more plugins »](https://github.com/rehypejs/rehype/blob/master/doc/plugins.md#list-of-plugins)
 
