@@ -26,7 +26,7 @@ collective.
 * [rehype-cli](https://github.com/rehypejs/rehype/tree/master/packages/rehype-cli) - Command line interface.
 * [hast](https://github.com/syntax-tree/hast) - Abstract syntax tree specification.
 * [unified](https://github.com/unifiedjs/unified) - Ecosystem.
-* [unified.js.org](https://unified.js.org) - Ecosystem website.
+* [unifiedjs.com](https://unifiedjs.com) - Ecosystem website.
 
 ## Plugins
 
