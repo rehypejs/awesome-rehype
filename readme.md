@@ -42,6 +42,7 @@ collective.
 * [rehype-prism](https://github.com/mapbox/rehype-prism) - Highlight code blocks with [refractor](https://github.com/wooorm/refractor) (Prism).
 * [rehype-inline-svg](https://github.com/JS-DevTools/rehype-inline-svg) - Inline and optimize SVGs.
 * [rehype-toc](https://github.com/JS-DevTools/rehype-toc) - Add a table of contents (TOC).
+* [rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - Inspect, validate, or rewrite URLs anywhere in the document
 
 [Find more plugins »](https://github.com/rehypejs/rehype/blob/master/doc/plugins.md#list-of-plugins)
 
