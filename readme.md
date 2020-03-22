@@ -66,7 +66,7 @@ collective.
 * [Node.js](https://github.com/nodejs/node) - Node.js JavaScript runtime.
 * [angular](https://github.com/angular/angular) - Development platform for mobile and desktop apps.
 * [rxjs](https://github.com/ReactiveX/rxjs) - Reactive Extensions For JavaScript.
-* [stdlib](https://github.com/stdlib-js/stdlib) - Standard library emphasising numerical and scientific applications.
+* [stdlib](https://github.com/stdlib-js/stdlib) - Standard library emphasizing numerical and scientific applications.
 
 ## Related lists
 
