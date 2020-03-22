@@ -12,7 +12,6 @@
     "Titus Wormer <tituswormer@gmail.com> (wooorm.com)"
   ],
   "devDependencies": {
-    "awesome-lint": "^0.12.0",
     "remark-cli": "^7.0.0",
     "remark-preset-wooorm": "^6.0.0"
   },
@@ -35,11 +34,6 @@
         {
           "heading": "contents"
         }
-      ],
-      "awesome-lint/config",
-      [
-        "awesome-lint/rules/contributing.js",
-        false
       ]
     ]
   }
