@@ -21,9 +21,9 @@ collective.
 ## Official
 
 * [rehype](https://github.com/rehypejs/rehype) - Repository.
-* [rehype-parse](https://github.com/rehypejs/rehype/tree/master/packages/rehype-parse) - HTML parser.
-* [rehype-stringify](https://github.com/rehypejs/rehype/tree/master/packages/rehype-stringify) - HTML generator.
-* [rehype-cli](https://github.com/rehypejs/rehype/tree/master/packages/rehype-cli) - Command line interface.
+* [rehype-parse](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-parse) - HTML parser.
+* [rehype-stringify](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-stringify) - HTML generator.
+* [rehype-cli](https://github.com/rehypejs/rehype/tree/HEAD/packages/rehype-cli) - Command line interface.
 * [hast](https://github.com/syntax-tree/hast) - Abstract syntax tree specification.
 * [unified](https://github.com/unifiedjs/unified) - Ecosystem.
 * [unifiedjs.com](https://unifiedjs.com) - Ecosystem website.
@@ -34,7 +34,7 @@ collective.
 * [rehype-retext](https://github.com/rehypejs/rehype-retext) - Integrate with the [retext][] ecosystem.
 * [rehype-react](https://github.com/rhysd/rehype-react) - Generate React.
 * [rehype-dom](https://github.com/kmck/rehype-dom) - Use the DOM to parse / stringify in the browser.
-* [rehype-webparser](https://github.com/Prettyhtml/prettyhtml/tree/master/packages/rehype-webparser) - XML-like HTML parser.
+* [rehype-webparser](https://github.com/Prettyhtml/prettyhtml/tree/HEAD/packages/rehype-webparser) - XML-like HTML parser.
 * [rehype-minify](https://github.com/rehypejs/rehype-minify) - Minify HTML.
 * [rehype-format](https://github.com/rehypejs/rehype-format) - Format HTML.
 * [rehype-document](https://github.com/rehypejs/rehype-document) - Wrap a fragment in a document.
@@ -44,7 +44,7 @@ collective.
 * [rehype-toc](https://github.com/JS-DevTools/rehype-toc) - Add a table of contents (TOC).
 * [rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - Inspect, validate, or rewrite URLs anywhere in the document
 
-[Find more plugins »](https://github.com/rehypejs/rehype/blob/master/doc/plugins.md#list-of-plugins)
+[Find more plugins »](https://github.com/rehypejs/rehype/blob/HEAD/doc/plugins.md#list-of-plugins)
 
 ## Built on rehype
 
