@@ -43,6 +43,7 @@ collective.
 * [rehype-inline-svg](https://github.com/JS-DevTools/rehype-inline-svg) - Inline and optimize SVGs.
 * [rehype-toc](https://github.com/JS-DevTools/rehype-toc) - Add a table of contents (TOC).
 * [rehype-url-inspector](https://github.com/JS-DevTools/rehype-url-inspector) - Inspect, validate, or rewrite URLs anywhere in the document
+* [rehype-truncate](https://github.com/luk707/rehype-truncate) - Truncate HTML while preserving its structure.
 
 [Find more plugins »](https://github.com/rehypejs/rehype/blob/HEAD/doc/plugins.md#list-of-plugins)
 
