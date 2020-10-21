@@ -60,6 +60,7 @@ collective.
 * [svgr](https://github.com/smooth-code/svgr) - Transform SVGs into React components.
 * [nextein](https://github.com/elmasse/nextein) - Static site generator with Markdown + React for Next.js.
 * [prettyhtml](https://github.com/Prettyhtml/prettyhtml) - Formatter for your Angular, Vue, Svelte or HTML templates.
+* [bytemd](https://github.com/bytedance/bytemd) - Hackable markdown editor component.
 
 ## Built with rehype
 
