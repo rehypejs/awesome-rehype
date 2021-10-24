@@ -61,7 +61,7 @@ collective.
 * [nextein](https://github.com/elmasse/nextein) - Static site generator with Markdown + React for Next.js.
 * [prettyhtml](https://github.com/Prettyhtml/prettyhtml) - Formatter for your Angular, Vue, Svelte or HTML templates.
 * [bytemd](https://github.com/bytedance/bytemd) - Hackable markdown editor component.
-* [markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli) - The command line tool converts Markdown to HTML.
+* [markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli) - Command line tool that converts markdown to HTML.
 
 ## Built with rehype
 
