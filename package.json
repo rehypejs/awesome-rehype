@@ -1,27 +1,27 @@
 {
-  "name": "awesome-rehype",
-  "private": true,
-  "version": "0.0.0",
-  "description": "Curated list of awesome rehype resources",
-  "license": "CC-BY-4.0",
-  "keywords": [],
-  "repository": "rehypejs/awesome-rehype",
-  "bugs": "https://github.com/rehypejs/awesome-rehype/issues",
   "author": "Titus Wormer <tituswormer@gmail.com> (wooorm.com)",
+  "bugs": "https://github.com/rehypejs/awesome-rehype/issues",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (wooorm.com)"
   ],
+  "description": "Curated list of awesome rehype resources",
   "devDependencies": {
     "remark-cli": "^12.0.0",
     "remark-preset-wooorm": "^10.0.0"
   },
-  "scripts": {
-    "format": "remark . -qo",
-    "test": "npm run format"
-  },
+  "keywords": [],
+  "license": "CC-BY-4.0",
+  "name": "awesome-rehype",
+  "private": true,
   "remarkConfig": {
     "plugins": [
       "remark-preset-wooorm"
     ]
-  }
+  },
+  "repository": "rehypejs/awesome-rehype",
+  "scripts": {
+    "format": "remark --output --quiet -- .",
+    "test": "npm run format"
+  },
+  "version": "0.0.0"
 }
