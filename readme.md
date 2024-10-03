@@ -2,9 +2,9 @@
 
 # awesome rehype [![awesome][awesome-badge]][awesome]
 
-[<img src="https://raw.githubusercontent.com/rehypejs/rehype/90b8f34/logo.svg?sanitize=true" align="right" alt width="200">](https://github.com/rehypejs/rehype)
+[<img align="right" alt src="https://raw.githubusercontent.com/rehypejs/rehype/26ea958/logo-square.svg?sanitize=true" width="200">](https://github.com/rehypejs/rehype)
 
-> A curated list of awesome [**rehype**][rehype] resources.
+> A curated list of awesome **[rehype][]** resources.
 
 **rehype** is an HTML processor powered by plugins part of the [unified][]
 collective.
@@ -85,20 +85,20 @@ collective.
 
 <!-- Definitions. -->
 
-[license]: https://creativecommons.org/licenses/by/4.0/
-
-[license-badge]: https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg
-
 [author]: https://wooorm.com
 
 [awesome-badge]: https://awesome.re/badge.svg
 
 [awesome]: https://awesome.re
 
-[unified]: https://github.com/unifiedjs/unified
+[license-badge]: https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/by.svg
+
+[license]: https://creativecommons.org/licenses/by/4.0/
 
 [rehype]: https://github.com/rehypejs/rehype
 
 [remark]: https://github.com/remarkjs/remark
 
 [retext]: https://github.com/retextjs/retext
+
+[unified]: https://github.com/unifiedjs/unified
