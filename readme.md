@@ -32,8 +32,8 @@ collective.
 
 * [rehype-remark](https://github.com/rehypejs/rehype-remark) - Integrate with the [remark][] ecosystem.
 * [rehype-retext](https://github.com/rehypejs/rehype-retext) - Integrate with the [retext][] ecosystem.
-* [rehype-react](https://github.com/rhysd/rehype-react) - Generate React.
-* [rehype-dom](https://github.com/kmck/rehype-dom) - Use the DOM to parse / stringify in the browser.
+* [rehype-react](https://github.com/rehypejs/rehype-react) - Generate React.
+* [rehype-dom](https://github.com/rehypejs/rehype-dom) - Use the DOM to parse / stringify in the browser.
 * [rehype-webparser](https://github.com/Prettyhtml/prettyhtml/tree/HEAD/packages/rehype-webparser) - XML-like HTML parser.
 * [rehype-minify](https://github.com/rehypejs/rehype-minify) - Minify HTML.
 * [rehype-format](https://github.com/rehypejs/rehype-format) - Format HTML.
@@ -52,15 +52,13 @@ collective.
 * [MDX](https://github.com/mdx-js/mdx) - Markdown combined with JSX.
 * [mdx-deck](https://github.com/jxnblk/mdx-deck) - MDX-based presentation decks.
 * [Gatsby](https://github.com/gatsbyjs/gatsby) - Blazing fast, modern apps and websites with React.
-* [netlify-cms](https://github.com/netlify/netlify-cms) - CMS for static site generators.
-* [Phenomic](https://github.com/phenomic/phenomic) - Modular website compiler.
-* [Docz](https://github.com/pedronauck/docz) - Document your design system.
+* [Decap CMS](https://github.com/decaporg/decap-cms) - CMS for static site generators (formerly netlify-cms).
 * [nteract](https://github.com/nteract/nteract) - Interactive computing suite for you.
 * [documentation.js](https://github.com/documentationjs/documentation) - Documentation system for modern JavaScript.
-* [svgr](https://github.com/smooth-code/svgr) - Transform SVGs into React components.
+* [svgr](https://github.com/gregberge/svgr) - Transform SVGs into React components.
 * [nextein](https://github.com/elmasse/nextein) - Static site generator with Markdown + React for Next.js.
 * [prettyhtml](https://github.com/Prettyhtml/prettyhtml) - Formatter for your Angular, Vue, Svelte or HTML templates.
-* [bytemd](https://github.com/bytedance/bytemd) - Hackable markdown editor component.
+* [bytemd](https://github.com/pd4d10/bytemd) - Hackable markdown editor component.
 * [markdown-to-html-cli](https://github.com/jaywcjlove/markdown-to-html-cli) - Command line tool that converts markdown to HTML.
 
 ## Built with rehype
@@ -76,7 +74,7 @@ collective.
 * [awesome unified](https://github.com/unifiedjs/awesome-unified)
 * [awesome remark](https://github.com/remarkjs/awesome-remark)
 * [awesome retext](https://github.com/retextjs/awesome-retext)
-* [awesome mdx](https://github.com/transitive-bullshit/awesome-mdx)
+* [awesome mdx](https://github.com/mdx-js/awesome)
 * [awesome syntax-tree](https://github.com/syntax-tree/awesome-syntax-tree)
 
 ## License
